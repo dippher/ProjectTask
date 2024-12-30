@@ -1,5 +1,9 @@
 # Documentation du Projet de Gestion de Tâches et de Projets
 
+## Participants du projet:
+**- ATSINI BEM Rosalie Myspa:**  L2022GLSI0092
+**- EVEMBA MOLICO Daniel:**  L2022GLSI0102
+
 ## 1. Objectif Principal du Projet
 
 L'objectif principal de ce projet est de créer une application web de gestion de tâches et de projets. Cette application permet aux utilisateurs de créer des comptes, de se connecter, de gérer des projets, d'assigner et de suivre des tâches, ainsi que de visualiser un calendrier des projets.
@@ -185,5 +189,6 @@ Le projet est structuré comme suit :
 
 7. **Déconnexion** :
    - Cliquez sur "Fermer Connexion" dans la barre de navigation pour vous déconnecter.
+
 
 **Note** : Assurez-vous d'avoir une connexion Internet stable pour utiliser toutes les fonctionnalités de l'application, car elle dépend de Firebase pour l'authentification et le stockage des données.
